@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9949c593dc8ce77c450d5bf30f823bbcefadda16.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-14f0ba816e121b34f376c752260c4699a5ebfd7d.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/Android/Sdk/platforms/android-24/optional/org.apache.http.legacy.jar"
+        revision="24.0.2"
+        sha1="fb7023e781abb70ed1b0442eb611fbed295cae84">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-3d76f7231c5eadb989ead5543be658e424d9fae4.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-dd2dc58934b4db8cf9074a83f5c4f45ec5ed9ae0.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.0-992e3ab61a1a8f7b9ddc43b74a3c25ffe6ca9979.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.0-fc8139fcff5a77f1cc6325b40ba581c44cb2c500.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-170535962f7e3ed88a10280d1835976a22433fdf.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-52269e1232bd2181fe9f465653db2cf5219a5ded.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.0-83020a72729d48e96e140f92c75aef6ae53f6579.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a7e05ebd3443d7d358b4a63700fc2b9dc608fe01.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7c7cd734fef644202144f04ef35347f44ce8dfee.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.0-40b382f8bfaca3023db8ec15f0c1102d455be70c.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/Android/Sdk/platforms/android-24/android.jar"
+        revision="24.0.2"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-1e1ca3514607be4191b4276739a61969f823d41e.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/AndPermission/permission/unspecified/jars/classes.jar"
+        revision="24.0.2"
+        sha1="11456835a9e39078d6af96be280cc4315b59cc80">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ee7e6374a57209d6390cc46726386b279bf158c1.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-794dac09414c416a55e4782374ae08bc3bacd25c.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.2.0-a2f02a84d318295694d25d3201bc687ece00ca62.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-682a447d10230ec5476248ad053ce7a3824ba810.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.0-57d6a60ad301642770e936fe671640668abaddd3.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2df61d7b40966ea579d4931c396f6e75c2e3e2f2.jar" />
+    </item>
+    <item
+        jar="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/bilaizi/AndroidStudioProjects/AndPermission/sample/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-eb44fc2a1958ba3f0312811e24d070aaf7998e01.jar" />
+    </item>
+
+</items>
